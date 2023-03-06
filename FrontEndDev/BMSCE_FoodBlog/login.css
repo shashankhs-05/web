@@ -1,0 +1,123 @@
+* {
+    font-family: sans-serif;
+   
+}
+
+body {
+    background-color: #fff;
+    justify-content: center;
+}
+
+.box {
+    width: 500px;
+    height: 520px;
+    padding: 40px; 
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    /* background-color: aqua; */
+    transform: translate(-50%, -50%); 
+    background: url("image/image20_re.jpg") no-repeat ;
+    text-align: center;
+    padding: 10px 12px;
+    z-index: -1;
+    
+}
+.form-group{
+    padding-top: 80px;
+    padding-left: 50%;
+    border: none;
+    background: transparent;
+    outline: none;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    z-index: 1;
+    color: #fff;
+    font-style:inherit;
+}
+.reg-but{
+    text-align: center;
+    padding-right: 2%;
+
+}
+button{
+    background-color: #DFB78C;
+    font-size: medium;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    border-width: 0.9px;
+}
+button:hover{
+    background-color: #49281A;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)
+}
+.form-group2{
+    padding-left: 50%;
+    padding-bottom: 1%;
+}
+.log input[type="email"],input[id="password"],input[id="confirmpassword"]{
+    border: none;
+    border-bottom: 1px solid #999;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.password-span{
+    color: #F8F988;
+    font-family: 'Lobster', cursive;
+font-family: 'Rubik Vinyl', cursive;
+font-family: 'Shadows Into Light', cursive;
+}
+.a{
+    color: #fff;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rubik Vinyl', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+.heady {
+    padding-top: 50px;
+    justify-content: center;
+    text-align: center;  
+}
+
+.form-group1 {
+    padding-left: 50%;
+}
+
+.btn {
+    justify-content: center;
+    padding-top: 2%;
+}
+
+.form-group1-1 {
+    padding-top: 3%;
+    text-align: center;
+}
+
+.button_sub {
+    padding-left: 50%;
+}
+
+.class2{
+    text-align: center;
+    position:relative;
+    padding-left: 10%; 
+    padding-right: 10% ;
+    padding-top: 2%;
+    /* display: flex; */
+}
+
+.form-control[type = "email"],.form-control[name = "password"],.form-control[type = "confirmpassword"]{
+    font-weight:bolder  ;
+    font-size:medium;
+}
+

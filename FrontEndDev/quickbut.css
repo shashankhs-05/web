@@ -1,0 +1,131 @@
+html {
+    align-items: center;
+}
+
+body {
+    align-items: center;    
+}
+.div{
+    display: inline-block;
+    margin-left: auto;
+margin-right: auto;
+    align-self: center;
+    text-align: center;
+}
+.jax{
+    position: relative;
+    left: 30px;
+}
+.heading{
+    font-family: 'Noto Serif NP Hmong', serif;
+}
+.checked{
+
+    display: inline-flex;
+    color: gold;
+    font-size: 20px;
+    position: relative;
+    right: 40px;
+}
+button{
+    background-color: #fff;
+    font-size: medium;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-width: 0.9px;
+    font-family: 'Chivo Mono', monospace;
+    position: relative;
+    left: 25px;
+
+  }
+  button:hover{
+    background-color: black;
+    color: white;
+    
+
+  }
+  .afiliate{
+    color: gray;
+    position: relative;
+    right: 30px;
+  }
+.headh3{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    right: 30px;
+}
+.img-ramen{
+    position: relative;
+    left: 20px;
+    align-self: center;
+}
+.div2{
+    font-family: 'Rajdhani', sans-serif;
+    line-height: 10px;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+   
+}
+.recipe{
+    /* background: linear-gradient(90deg, #FFC0CB 50%,); */
+    /* background-color: black; */
+    background-size: 100px auto;
+    color: white;
+    size: 100px;
+    text-indent: 50px;
+    line-height:1.5;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+.jeff{
+    position: relative;
+    left: 130px;
+    bottom: 400px;
+}
+.jeff-div{
+    position: relative;
+    left:1050px;
+    bottom:430px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+.jeff-p{
+    position: relative;
+    right: 140px;
+    /* font-family: 'IM Fell Double Pica', serif; */
+    font-family: 'Work Sans', sans-serif;
+}
+.image-con{
+    position: relative;
+    top: auto;
+    padding-left: 2%;
+    align-self: center;
+    /* bottom: 180px;
+    left:20px; */
+}
+
+/* #section1{
+    justify-content: center;
+    text-align: left;
+    background-color: black;
+    padding-left: 2%;
+    padding-right: 10%;
+} */
+
+.classss {
+    padding-top: 20px;
+
+    padding-bottom: 2%;
+    background-color: black;
+    text-indent: 50px;
+   
+position: relative;
+}
+
+/* .para {
+    background-color: black;
+} */
